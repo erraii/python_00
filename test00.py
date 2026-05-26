@@ -27,15 +27,15 @@ def test_ft_exercise(exercise_file_name):
     print(f"\n=== Testing {exercise_file_name} ===")
 
     exercise_paths = {
-        "ft_hello_garden": "python_00.ex0.ft_hello_garden",
-        "ft_garden_name": "python_00.ex1.ft_garden_name",
-        "ft_plot_area": "python_00.ex2.ft_plot_area",
-        "ft_harvest_total": "python_00.ex3.ft_harvest_total",
-        "ft_plant_age": "python_00.ex4.ft_plant_age",
-        "ft_water_reminder": "python_00.ex5.ft_water_reminder",
-        "ft_count_harvest_iterative": "python_00.ex6.ft_count_harvest_iterative",
-        "ft_count_harvest_recursive": "python_00.ex6.ft_count_harvest_recursive",
-        "ft_seed_inventory": "python_00.ex7.ft_seed_inventory",
+        "ft_hello_garden": "ex0.ft_hello_garden",
+        "ft_garden_name": "ex1.ft_garden_name",
+        "ft_plot_area": "ex2.ft_plot_area",
+        "ft_harvest_total": "ex3.ft_harvest_total",
+        "ft_plant_age": "ex4.ft_plant_age",
+        "ft_water_reminder": "ex5.ft_water_reminder",
+        "ft_count_harvest_iterative": "ex6.ft_count_harvest_iterative",
+        "ft_count_harvest_recursive": "ex6.ft_count_harvest_recursive",
+        "ft_seed_inventory": "ex7.ft_seed_inventory",
     }
 
     try:
